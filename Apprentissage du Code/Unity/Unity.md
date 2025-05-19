@@ -4,7 +4,7 @@
 ----
 
 %% Begin Waypoint %%
-- **[[Brackeys]]**
-- **[[Sebastian Graves]]**
+- [[Brackeys]]
+- [[Sebastian Graves]]
 
 %% End Waypoint %%
