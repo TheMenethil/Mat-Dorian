@@ -26,6 +26,7 @@ Inspiration **[Strayed Lights](https://store.steampowered.com/app/2162020/Straye
 
 %% Begin Waypoint %%
 - [[Combat tour par tour]]
+- [[Création du monde]]
 - [[Musique]]
 
 %% End Waypoint %%
