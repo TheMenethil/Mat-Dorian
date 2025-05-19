@@ -14,5 +14,6 @@ Voici les fichiers du fork de [linked-blog-starter](https://github.com/matthewwo
 - **[[Apprentissage du Code]]**
 - **[[Culture du Jeu Vidéo]]**
 - **[[Méthodes]]**
+- **[[Notre projet]]**
 
 %% End Waypoint %%
