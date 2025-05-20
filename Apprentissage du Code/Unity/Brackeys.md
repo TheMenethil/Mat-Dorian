@@ -3,7 +3,7 @@
 ----
 
 %% Begin Waypoint %%
-Unity : tuto beginner : https://learn.unity.com/tutorial/get-started-with-the-unity-editor#  (step 3 finish)
+Unity : tuto beginner : https://learn.unity.com/tutorial/get-started-with-the-unity-editor#  (step 5 finish)
 
 
 
